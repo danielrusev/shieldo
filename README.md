@@ -14,11 +14,18 @@ With our solution farmers can move away from calendar-based spraying and irrigat
 ## Team
 
 ### Daniel
-<p align="center"><img src="https://storage.cloud.google.com/shieldo-public/team/daniel.jpg" width="250"></p>
+<p align="center"><img src="https://storage.cloud.google.com/shieldo-public/team/daniel.jpg.png" width="250"></p>
+My name is Daniel and I help companies and organisations to develop an overall IOT ecosystem engagement strategy.
+I lead the way through vision, strategy, architecture and shepherding of IoT solutions from inception to deployment.
+Sensors, software, connectivity and devices - collaborating all together to automate industries, improve our cities and transform society.
+
 
 ### Mihaela
-<p align="center"><img src="https://storage.cloud.google.com/shieldo-public/team/mihaela.jpg" width="250"></p>
-
+<p align="center"><img src="https://storage.cloud.google.com/shieldo-public/team/mihaela.jpg.png" width="250"></p>
+My name is Mihaela and I'm deciding how to turn ideas and messages into visuals.
+I create artwork for the web, television and films. This includes movie clips, trailers, commercials, etc. 
+I use visual effects, animation and other cinematic techniques to bring life to my creations.
+I'm also responsible for creating and maintaining the branding and vision for a variety of print and digital products. 
 
 
 This project was generated using [Nx](https://nx.dev).
