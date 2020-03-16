@@ -27,14 +27,15 @@ I create artwork for the web, television and films. This includes movie clips, t
 I use visual effects, animation and other cinematic techniques to bring life to my creations.
 I'm also responsible for creating and maintaining the branding and vision for a variety of print and digital products. 
 
+## Technical details
 
-This project was generated using [Nx](https://nx.dev).
+We created this project was using [Nx](https://nx.dev).
 
 <p align="center"><img src="https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png" width="450"></p>
 
 🔎 **Nx is a set of Extensible Dev Tools for Monorepos.**
 
-## Adding capabilities to your workspace
+## This is how you can add capabilities to this workspace
 
 Nx supports many plugins which add capabilities for developing different types of applications and different tools.
 
