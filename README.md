@@ -29,9 +29,7 @@ I'm also responsible for creating and maintaining the branding and vision for a 
 
 ## Technical details
 
-We created this project was using [Nx](https://nx.dev).
-
-<p align="center"><img src="https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png" width="450"></p>
+We created this project using [Nx](https://nx.dev).
 
 🔎 **Nx is a set of Extensible Dev Tools for Monorepos.**
 
@@ -103,3 +101,9 @@ Run `nx dep-graph` to see a diagram of the dependencies of your projects.
 ## Further help
 
 Visit the [Nx Documentation](https://nx.dev) to learn more.
+
+
+## Architecture
+
+## Technology stack
+
