@@ -1,4 +1,5 @@
 # Shieldo
+We use technology to enable wireless real-time soil moisture monitoring, irrigation optimization and agriculture management services.
 
 ## General
 In Bulgaria so far no scientific studies have been carried out and no scientific publications have been opened for the application of smart agriculture. There are several companies that offer and implement precision agriculture, which is the first stage of the intelligent farming system. The fourth industrial revolution, which is becoming more and more tangible, opens up untold opportunities to improve people's lives so far by using integrated technologies based on the achievements of artificial intelligence, the Internet of Things, the integration of the physical and virtual worlds. We live in an ever-changing world, populated more and more by autonomous objects such as drones, robots, and remote-controlled machines, where virtual environments and physical spaces are increasingly integrated. Modern integrated technologies are increasingly entering agriculture, offering solutions for what is called "smart agriculture". Intelligent agriculture is an extremely vast area where a wide range of tasks can be solved. Despite the enormous scope, the tasks can be summarized in three broad classes: Optimal use and saving of water resources; Protection and minimum environmental burden of harmful substances; Weed prevention and early detection of diseases of winter wheat.
@@ -6,6 +7,9 @@ In Bulgaria so far no scientific studies have been carried out and no scientific
 We are the 1’st who use Intelligent Internet of Things to collect environmental data such as temperature, humidity, rainfall, wind speed, soil moisture, etc. and use those data to improve the quality and quantity of harvest, while minimizing the risk and waste.
 
 With our solution farmers can move away from calendar-based spraying and irrigation, and practice precision and smart agriculture, which save resources, contribute to more organic farming, and improve quality and quantity.
+
+## Goals
+Оur primary goal is to protect our environment as much as possible and contribute to more organic farming. Helping farmers to achieve their goals with technology that improves profitability by lowering water and labor costs, increases yield, and improves quality. Digitalizing precious knowledge and know-how from previous generations and make it available to all people. Also to accelerate the time and reduce the efforts of plant breeding thru machine learning and simulations.
 
 
 This project was generated using [Nx](https://nx.dev).
