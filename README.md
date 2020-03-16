@@ -1,5 +1,13 @@
 # Shieldo
 
+## General
+In Bulgaria so far no scientific studies have been carried out and no scientific publications have been opened for the application of smart agriculture. There are several companies that offer and implement precision agriculture, which is the first stage of the intelligent farming system. The fourth industrial revolution, which is becoming more and more tangible, opens up untold opportunities to improve people's lives so far by using integrated technologies based on the achievements of artificial intelligence, the Internet of Things, the integration of the physical and virtual worlds. We live in an ever-changing world, populated more and more by autonomous objects such as drones, robots, and remote-controlled machines, where virtual environments and physical spaces are increasingly integrated. Modern integrated technologies are increasingly entering agriculture, offering solutions for what is called "smart agriculture". Intelligent agriculture is an extremely vast area where a wide range of tasks can be solved. Despite the enormous scope, the tasks can be summarized in three broad classes: Optimal use and saving of water resources; Protection and minimum environmental burden of harmful substances; Weed prevention and early detection of diseases of winter wheat.
+
+We are the 1’st who use Intelligent Internet of Things to collect environmental data such as temperature, humidity, rainfall, wind speed, soil moisture, etc. and use those data to improve the quality and quantity of harvest, while minimizing the risk and waste.
+
+With our solution farmers can move away from calendar-based spraying and irrigation, and practice precision and smart agriculture, which save resources, contribute to more organic farming, and improve quality and quantity.
+
+
 This project was generated using [Nx](https://nx.dev).
 
 <p align="center"><img src="https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png" width="450"></p>
