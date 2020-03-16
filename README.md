@@ -11,6 +11,15 @@ With our solution farmers can move away from calendar-based spraying and irrigat
 ## Goals
 Оur primary goal is to protect our environment as much as possible and contribute to more organic farming. Helping farmers to achieve their goals with technology that improves profitability by lowering water and labor costs, increases yield, and improves quality. Digitalizing precious knowledge and know-how from previous generations and make it available to all people. Also to accelerate the time and reduce the efforts of plant breeding thru machine learning and simulations.
 
+## Team
+
+### Daniel
+<p align="center"><img src="https://storage.cloud.google.com/shieldo-public/team/daniel.jpg" width="250"></p>
+
+### Mihaela
+<p align="center"><img src="https://storage.cloud.google.com/shieldo-public/team/mihaela.jpg" width="250"></p>
+
+
 
 This project was generated using [Nx](https://nx.dev).
 
