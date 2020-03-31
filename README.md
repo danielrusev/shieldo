@@ -25,7 +25,11 @@ Sensors, software, connectivity and devices - collaborating all together to auto
 My name is Mihaela and I'm deciding how to turn ideas and messages into visuals.
 I create artwork for the web, television and films. This includes movie clips, trailers, commercials, etc. 
 I use visual effects, animation and other cinematic techniques to bring life to my creations.
-I'm also responsible for creating and maintaining the branding and vision for a variety of print and digital products. 
+I'm also responsible for creating and maintaining the branding and vision for a variety of print and digital products.
+
+### Prof. Dr. Stanimir Stoyanov
+<p align="center"><img src="https://user-images.githubusercontent.com/22181795/78007100-78370c80-7346-11ea-9985-daf50b2e4738.png" width="250"></p>
+My name is Stanimir and I have 28 years of IT experience. I have expertise in certain fundamental fields of software engineering and also  a long and fruitful cooperation with large companies in the field of software engineering and e-learning. Leader of an international project with the University of Limerick (Ireland) dealing with the introduction of e-learning and e-services in the university environment.
 
 ## Technical details
 

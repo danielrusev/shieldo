@@ -17,6 +17,44 @@
     "web-e2e": {
       "tags": [],
       "implicitDependencies": ["web"]
+    },
+    "header": {
+      "tags": []
+    },
+    "website": {
+      "tags": ["website"]
+    },
+    "website-e2e": {
+      "tags": [],
+      "implicitDependencies": ["website"]
+    },
+    "console": {
+      "tags": []
+    },
+    "console-e2e": {
+      "tags": [],
+      "implicitDependencies": ["console"]
+    },
+    "test": {
+      "tags": []
+    },
+    "test-e2e": {
+      "tags": [],
+      "implicitDependencies": ["test"]
+    },
+    "myapp": {
+      "tags": []
+    },
+    "myapp-e2e": {
+      "tags": [],
+      "implicitDependencies": ["myapp"]
+    },
+    "shieldo-web": {
+      "tags": []
+    },
+    "shieldo-web-e2e": {
+      "tags": [],
+      "implicitDependencies": ["shieldo-web"]
     }
   }
 }
